@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, NumPy, Pandas, SQL, Tableau, Power-BI, Machine learning**
 
-- 📫 How to reach me **soni.mousami.germany@gmail.com**
+- 📫 How to reach me **sonimousami3@gmail.com**
 
 - 📄 Know about my experiences [https://www.yessinfotech.com/](https://www.yessinfotech.com/)
 
