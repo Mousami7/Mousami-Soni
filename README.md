@@ -6,9 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousami7&label=Profile%20views&color=0e75b6&style=flat" alt="mousami7" /> </p>
 
-- 🔭 I’m currently working on **Plant disease detection using Machine learning and Deep learning**
+- 🔭 I’m currently working on **The Comparison of The Performance of Open-Source LLMs In the 
+Prediction of Price Movements of Cryptocurrencies and Stocks**
 
-- 🌱 I’m currently learning **Masters in Computer Science in (IUBH)**
+- 🌱 I’m currently pursuing **Masters in Computer Science in (IUBH)**
 
 - 💬 Ask me about **Python, NumPy, Pandas, SQL, Tableau, Power-BI, Machine learning**
 
